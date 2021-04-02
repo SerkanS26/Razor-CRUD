@@ -1,2 +1,0 @@
-# RazorCRUD
-Crud c#

@@ -31,6 +31,8 @@ namespace RazorCrud
                 try
                 {
                     SeedData.Initialize(services);
+                    SeedDataMusic.Initialize(services);
+                    SeedDataSeries.Initialize(services);
                 }
                 catch (Exception ex)
                 {
